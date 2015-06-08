@@ -1,0 +1,1723 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inp",
+				"input-box"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"am",
+				"amconf-image"
+			],
+			[
+				"gra",
+				"gray3"
+			],
+			[
+				"che",
+				"checkout-types"
+			],
+			[
+				"g",
+				"gray3"
+			],
+			[
+				"gr",
+				"gray3"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"product",
+				"product-name"
+			],
+			[
+				"pro",
+				"product-details"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"e",
+				"example"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"id",
+				"iSred"
+			],
+			[
+				"za",
+				"zaggGold"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"sl",
+				"slide-img-wrapper"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"sli",
+				"slide-caption"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"cou",
+				"country-list"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"mo",
+				"mode-thumb"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"zag",
+				"zaggBlue"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"slim",
+				"slim-book"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"su",
+				"sup	Tag"
+			],
+			[
+				"gray",
+				"gray2"
+			],
+			[
+				"copy",
+				"copy2"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"page",
+				"page_data"
+			],
+			[
+				"u",
+				"underline"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ifro",
+				"ifrogz"
+			],
+			[
+				"site",
+				"site-split"
+			],
+			[
+				"la",
+				"landing-topic-text"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"lan",
+				"landing-topic-text"
+			],
+			[
+				"bot",
+				"both"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"l",
+				"letter-spacing"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"fotn",
+				"font-family"
+			],
+			[
+				"se",
+				"select-wrapper"
+			],
+			[
+				"bt",
+				"btn-themed-generic"
+			],
+			[
+				"added-to-",
+				"added-to-cart-heading"
+			],
+			[
+				"hig",
+				"highlight-panel"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"wor",
+				"word-wrap"
+			],
+			[
+				"uper",
+				"uppercase"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"bott",
+				"bottom"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"clo",
+				"closeThis"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"see",
+				"seeAll"
+			],
+			[
+				"wit",
+				"webkit-transform"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ori",
+				"origin-content-wrapper"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"rev",
+				"review-summary"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"hour",
+				"hoursRemain"
+			],
+			[
+				"th",
+				"thanksgiving"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"tot",
+				"totalSeconds"
+			],
+			[
+				"draw",
+				"drawingTime"
+			],
+			[
+				"current",
+				"currentMin"
+			],
+			[
+				"getM",
+				"getMinutes	jsDate"
+			],
+			[
+				"stopP",
+				"stopPropagation	jsEvent"
+			],
+			[
+				"prev",
+				"preventDefault	jQueryEvent"
+			],
+			[
+				"fun",
+				"function	jsProp"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"form",
+				"formTitle"
+			],
+			[
+				"give",
+				"giveaways"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"gi",
+				"giveaways"
+			],
+			[
+				"Give",
+				"Giveaway"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bla",
+				"black-friday"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"sea",
+				"searchWrapperSize"
+			],
+			[
+				"sort",
+				"sortOptions"
+			],
+			[
+				"slide",
+				"slideToggle	jQuery"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 12243,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 140.0,
+		"last_filter": "brwo",
+		"selected_items":
+		[
+			[
+				"brwo",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"incre",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				"emmet ",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git l",
+				"Git: Log Current File"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet ne",
+				"Emmet: Next Edit Point"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"emm",
+				"Set Syntax: Emmet"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"set syntax: h",
+				"Set Syntax: HTML"
+			],
+			[
+				"svn",
+				"Preferences: SVN Settings"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"bro",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"send",
+				"Send to evernote"
+			],
+			[
+				"ev",
+				"Evernote Settings"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: html"
+			],
+			[
+				"close t",
+				"Snippet: Wrap Selection in Open/Close Tag"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"add r",
+				"Package Control: Add Repository"
+			],
+			[
+				"zen",
+				"Zen Coding: Wrap zen as you type"
+			],
+			[
+				"zen zen",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 543.0
+	},
+	"console":
+	{
+		"height": 240.0,
+		"history":
+		[
+			"view.options()",
+			"view.options().get('tabSize')",
+			"view.options()",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"cd Packages/",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/don.livingston/Dropbox/Sites"
+	],
+	"file_history":
+	[
+		"/Users/don.livingston/Dropbox/Notebooks/20150521.txt",
+		"/Users/don.livingston/Dropbox/Notebooks/Personal notes/2015-05-21.txt",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/rwd/enterprise/template/guidance/product_replacement/form.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/Setup/sql/zagg_setup/upgrade-1.1.44-1.1.45.php",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/module/_product_register.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/module/_checkout-cart.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/rwd/enterprise/template/guidance/product_replacement/shipping_methods.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/home_hero_slider.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/etc/config.xml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/home_hero_slider_eu_en.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/home_hero_slider_uk_en.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/template/catalog/product/view.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/home.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/js/amasty/amconf/configurableList.js",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/js/amasty/amconf/configurable.js",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/template/catalog/product/view/type/options/configurable.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/module/_catalog-product.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/template/checkout/cart/minicart.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/template/checkout/cart/minicart-popup.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/template/checkout/cart/minicart/default.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/rwd/default/template/checkout/cart/minicart/items.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/module/_checkout-cart-minicart.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/rwd/default/scss/core/_common.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/rwd/default/scss/module/_checkout-cart-minicart.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/template/checkout/cart.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/_colors-text-formatting.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/core/_common.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/css/styles.css",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/styles.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/_framework.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/mixin/_typography.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/style-guide_buttons.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/style-guide.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/_var.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/style-guide.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/style-guide_typography.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/company/company.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/footer_menu.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/terms-of-use.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/landing-pages.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/iShdx.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/landing-page/_iShdx.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/galaxy-s6-accessories.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/landing-page/_accessories.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/landing-page/galaxy-s6-accessories.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/autofit_8_list.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/autofit_10_list.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/autofit_7_list.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/ProductPageHtml/ZAGG Auto-Fit Folio 8/SpecsPanel.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/ProductPageHtml/ZAGG Auto-Fit Folio 7/SpecsPanel.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/ProductPageHtml/ZAGG Auto-Fit Folio 10/SpecsPanel.html",
+		"/Users/don.livingston/Dropbox/playlists/Epic Soundtrax.txt",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/style-guide_icons.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/css/style-guide.css",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/styleguide_submenu.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/style-guide_layout.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/slim-book-keyboard-case.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/company_submenu.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/promo_eu_en.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/promo_uk_en.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/zagg-rugged-book.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/landing-page/promos/_ten-years.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/landing-page/promos/promo-landing.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/zagg-slider.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/promo.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/template/catalogsearch/form.mini320.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/layout/local.xml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/template/page/html/header.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/template/catalogsearch/form.mini.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/landing-page/zaggkeys-rugged-book.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/template/page/resellers.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/authorized-resellers.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/resellers-us.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/resellers-international.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/_core.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/.sass-cache/469e2f999c8c12c3d9bf8c65272d1b81a10b157a/_common.scssc",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/ifrogz/scss/core/_common.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/etc/local.xml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/js/zagg-ie.js",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/css/zagg-slider.css",
+		"/Users/don.livingston/Sites/zagg-magento/zagg-magento.sublime-project",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/etc/modules/Zagg_Adminhtml.xml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/errors/local.xml.sample",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/etc/local.xml.additional",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/etc/local.xml.template",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/ifrogz/layout/local.xml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/errors/local.xml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/layout/_header.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/template/page/html/footer/footer_country_select.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/layout/_header-search.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/layout/_header-nav.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/ifrogz/scss/layout/_header-nav.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/rwd/default/scss/layout/_header-nav.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/ifrogz/scss/layout/_header.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/rwd/default/scss/layout/_header.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/.sass-cache/0c9e2595badc0fd5203805dcb1aff5e21028f470/_header-search.scssc",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/ifrogz/scss/layout/_header-search.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/rwd/default/scss/layout/_header-search.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/rwd/default/scss/layout/_header-account.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/core/Enterprise/Reward/data/enterprise_reward_setup/data-install-1.11.0.0.php",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/core/Enterprise/AdminGws/sql/enterprise_admingws_setup/mysql4-install-0.0.1.php",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/lib/Zend/Locale/Data/aa_ER_SAAHO.xml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/etc/modules/Enterprise_Search.xml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/rwd/default/scss/content/_home.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/footer_cpa.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/rwd/enterprise/template/zagg/dtm/footer.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/fonts/icomoon.svg",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/fonts/futura-book-webfont.svg",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/rwd/enterprise/template/zagg/dtm/header.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/downloader/template/header.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Ifrogz/Setup/data/ifrogz_setup/configurables/heat-earbuds.csv",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/js/extjs/css/ytheme-aero.css",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/lib/Zend/Filter/HtmlEntities.php",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/layout/_footer.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/js/zagg.slider.js",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/template/page/html/head.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/rugged-book-keyboard-case.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/blocks/Invisible_shield.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/adminhtml/default/default/template/api/role_users_grid_js.phtml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/lib/Zend/Locale/Data/ru_UA.xml",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/README.md",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/core/Mage/Page/Block/Html/Head.php",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/landing-page/samsung-galaxy-note-4-accessories.scss",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/iphone-6-accessories.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/ipad-mini-3-accessories.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/samsung-galaxy-note-4-accessories.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Zagg/CmsSetup/content/pages/ipad-air-2-accessories.html",
+		"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss/landing-page/ipad-mini3-accessories.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/don.livingston/Sites/zagg-magento/public_html/app/",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/frontend/zagg/zagg/",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg/",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/app/",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/app/",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/app/design/frontend/zagg/zagg",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/app/",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/skin/frontend/zagg/zagg/scss",
+			"/Users/don.livingston/Sites/zagg-magento/public_html/app/code/local/Guidance/CmsSetup/content/pages",
+			"/Users/don.livingston/Sites/zagg-web",
+			"/Users/don.livingston/Sites/zagg-resources",
+			"/Users/don.livingston/Sites/zagg-web",
+			"",
+			"/Users/don.livingston/Sites/zagg-retail",
+			"/Users/don.livingston/Sites/zagg-web",
+			"<project>",
+			"<open folders>",
+			"",
+			"/Users/don.livingston/Sites/zagglocal",
+			"<project>",
+			"<open folders>",
+			"",
+			"/Users/don.livingston/Sites/zaggmobile"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Review and complete your replacement order",
+			".product-cart-image",
+			"sp-methods",
+			"product-img-box",
+			"div class=\"product-image-box\"",
+			"div class=\"product-image-box",
+			".sp-methods",
+			"E4E4E4",
+			"#shipping_options",
+			"div id=\"shipping_options\"",
+			"amconf-image-container",
+			"select-wrapper",
+			".dropdown_holder",
+			"class=\"checkout-types minicart\"",
+			"class=\"remove\"",
+			"mini-products-list",
+			"justadded-item-summary",
+			"minicart-wrapper",
+			"cart-free-shipping-notice",
+			"btn-lg",
+			"resources/",
+			"h3",
+			"h1",
+			"a",
+			"48px",
+			"Text",
+			"Button",
+			"64px",
+			"gold",
+			"Button",
+			"62px",
+			"oatmealGray",
+			"company",
+			"btn-lg",
+			"<?php print_asset('image',",
+			"form.mini",
+			"id=\"search_mini_form\"",
+			"3s",
+			"class=\"nav navbar-nav navbar-right\"",
+			"pager",
+			"ZAGG-slider-pager",
+			" ZAGG-slider-pager",
+			"jquery.cycle",
+			"classList.add",
+			"classList",
+			"selector",
+			"zagg.slider.js",
+			"getCssJsHtml",
+			"X-UA-Compatible",
+			"<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">",
+			"built",
+			"ZAGG-slider-built",
+			".product-shop-container",
+			"product-cart-image",
+			"product-cart-info",
+			"class=\"item-msg error\"",
+			".logo",
+			"body.customer-account",
+			".customer-account",
+			"cms_footer_links_sm",
+			"getCmsBlockHtml",
+			"cms_footer_links_sm",
+			"footer_menu",
+			"getCopyright",
+			"footer-wrapper-bottom",
+			"text-transform: c",
+			"$mq-support",
+			".hero",
+			"iphone6",
+			"fancybox",
+			" class=([\"'])(?:(?=(\\\\?))\\2.)*?\\1",
+			"h2",
+			" class=([\"'])(?:(?=(\\\\?))\\2.)*?\\1",
+			"<div class=\"container-slider\">",
+			"<section class=\"hero\">",
+			"<h2>Authorized Resellers</h2>",
+			"$Avenir",
+			"<label class=\"cursor-auto\">Gift Card Number</label>",
+			"<label class=\"cursor-auto\">Expiration Date</label>",
+			"<label class=\"cursor-auto\">",
+			"row ",
+			"id=\"selectDevice\"",
+			"selectDevice",
+			"&raquo;",
+			" id=\"region-products-top\"",
+			"/ipad-mini-keyboards-cover/",
+			"href=\"/ipad-mini-cover\"",
+			"COVER",
+			"\"/ipad-mini-cover.php\"",
+			"<h3 class=\"landing-topic-subhead-large\">",
+			"<h2 class=\"landing-topic-head\">",
+			"&raquo;",
+			"http://www.zagg.com/ipad-accessories",
+			"<h2 class=\"landing-topic-head\">",
+			"<h2 class=\"landing-topic-subhead-large\">",
+			"$canonical",
+			"rel=\"canonical\"",
+			"\"col-md-6\"",
+			"autofit",
+			"class=“product”",
+			"class=“features”",
+			"/h3",
+			"<h3",
+			" class=\"redText\"",
+			"lrgText",
+			"affiliateContent",
+			"li",
+			")\n",
+			"ZAGG | #1 In Mobile Accessorites",
+			"h2.landing-topic-head",
+			"Gotham",
+			"is-device-search",
+			"mailing-list-signup",
+			"<div class=\"is-device-search container\">",
+			"appendedInputButton",
+			"borderLightGray",
+			"minicart_ga-upsell",
+			"minicart-container",
+			"css",
+			"login",
+			"loginWrapper",
+			"originalFontSize",
+			"btn-large",
+			"#sbd_container",
+			"highli",
+			".container",
+			"filter",
+			"product_page"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"style-guide",
+			"className += \" \" + ",
+			"ipad-air2",
+			"",
+			"h3",
+			"",
+			"<span class=\"icon-chevron-right\"></span>",
+			"/ipad-mini-keyboards-folio/",
+			"href=\"/ipad-mini-folio\"",
+			"FOLIO",
+			"\"/ipad-mini-cover\"",
+			"<h3>",
+			"<h2>",
+			"<span class=\"icon-chevron-right\"></span>",
+			"/ipad-accessories",
+			"<h2>",
+			"\"col-md-6 col-sm-6 col-xs12\"",
+			"class=\"product\"",
+			"class=\"features\"",
+			"/h2",
+			"<h2 class=“product”",
+			"",
+			"btn-lg",
+			"samsung-GS5",
+			"/cleaning",
+			"/stylus",
+			"/mobile-audio",
+			"/portable-power",
+			"/mobile-audio",
+			"/gaming",
+			"/cases",
+			"/invisibleshield/apple-ipad-air-screen-protectors",
+			"/",
+			"c3c3c3",
+			"d3d3d3",
+			"zlocal",
+			".prod-animatone",
+			"",
+			"bundleSelection",
+			"&trade;",
+			"mini",
+			"",
+			"iPadmini-accessory-info",
+			"height=\"25\" valign=\"middle\" align=\"center\"",
+			"#003548",
+			"marketing/cyber-monday-2012-early/",
+			"",
+			" <br />",
+			"",
+			"http://www.zagg.com/accessories/zaggkeys-ipad-profolio-plus-keyboard-case.php",
+			"3 &amp; 4",
+			"http://s3.amazonaws.com/ifrogz-images/images/animatone/",
+			"mini-7",
+			"shop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2840,
+								2840
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 178.0
+	},
+	"pinned_build_system": "",
+	"project": "dropbox-sites.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_product_",
+				"public_html/skin/frontend/zagg/zagg/scss/module/_product_register.scss"
+			],
+			[
+				"home",
+				"public_html/app/code/local/Zagg/CmsSetup/content/blocks/home_hero_slider.html"
+			],
+			[
+				"common.sc",
+				"public_html/skin/frontend/rwd/default/scss/core/_common.scss"
+			],
+			[
+				"colors",
+				"public_html/skin/frontend/zagg/zagg/scss/_colors-text-formatting.scss"
+			],
+			[
+				"style-gui",
+				"public_html/skin/frontend/zagg/zagg/scss/style-guide.scss"
+			],
+			[
+				"pages/hdx",
+				"public_html/app/code/local/Zagg/CmsSetup/content/pages/iShdx.html"
+			],
+			[
+				"_com",
+				"public_html/skin/frontend/rwd/default/scss/core/_common.scss"
+			],
+			[
+				"_comm",
+				"public_html/skin/frontend/zagg/zagg/scss/core/_common.scss"
+			],
+			[
+				"zagg-",
+				"public_html/skin/frontend/zagg/zagg/scss/zagg-slider.scss"
+			],
+			[
+				"_header-nav.scss",
+				"public_html/skin/frontend/zagg/zagg/scss/layout/_header-nav.scss"
+			],
+			[
+				"_header-search",
+				"public_html/skin/frontend/zagg/zagg/scss/layout/_header-search.scss"
+			],
+			[
+				"zagg/footer_cou",
+				"public_html/app/design/frontend/zagg/zagg/template/page/html/footer/footer_country_select.phtml"
+			],
+			[
+				"zagg/header.phtml",
+				"public_html/app/design/frontend/zagg/zagg/template/page/html/header.phtml"
+			],
+			[
+				"header",
+				"public_html/downloader/template/header.phtml"
+			],
+			[
+				"rugg",
+				"public_html/app/code/local/Zagg/CmsSetup/content/pages/rugged-book-keyboard-case.html"
+			],
+			[
+				"apple",
+				"public_html/skin/frontend/zagg/zagg/scss/landing-page/apple-iphone-6-accessories.scss"
+			],
+			[
+				"slim",
+				"public_html/skin/frontend/zagg/zagg/scss/landing-page/slim-book.scss"
+			],
+			[
+				"rugged",
+				"public_html/app/code/local/Zagg/CmsSetup/content/pages/zagg-rugged-folio.html"
+			],
+			[
+				"styles.css",
+				"public_html/skin/frontend/zagg/zagg/css/styles.css"
+			],
+			[
+				"_cor",
+				"public_html/skin/frontend/zagg/zagg/scss/_core.scss"
+			],
+			[
+				"_cus",
+				"public_html/skin/frontend/rwd/default/scss/module/_customer.scss"
+			],
+			[
+				"local",
+				"public_html/app/etc/local.xml"
+			],
+			[
+				"find_re",
+				"public_html/app/design/frontend/zagg/zagg/template/page/html/footer/find_retailer.phtml"
+			],
+			[
+				"page.xml",
+				"public_html/app/design/frontend/base/default/layout/page.xml"
+			],
+			[
+				"zagg/css/sty",
+				"public_html/skin/frontend/zagg/zagg/css/styles.css"
+			],
+			[
+				"_ca",
+				"public_html/skin/frontend/zagg/zagg/scss/content/_category.scss"
+			],
+			[
+				"_cate",
+				"public_html/skin/frontend/rwd/default/scss/content/_category.scss"
+			],
+			[
+				"landin",
+				"public_html/skin/frontend/zagg/zagg/css/landing-pages.css"
+			],
+			[
+				"landing-t",
+				"public_html/skin/frontend/zagg/zagg/scss/_landing-template.scss"
+			],
+			[
+				"land",
+				"public_html/skin/frontend/zagg/zagg/scss/landing-pages.scss"
+			],
+			[
+				"home.css",
+				"public_html/skin/frontend/zagg/zagg/css/home.css"
+			],
+			[
+				"home.sc",
+				"public_html/skin/frontend/rwd/default/scss/content/_home.scss"
+			],
+			[
+				"loc",
+				"public_html/app/etc/local.xml"
+			],
+			[
+				"contact.scss",
+				"public_html/skin/frontend/zagg/zagg/scss/support/contact.scss"
+			],
+			[
+				"contact.sc",
+				"public_html/skin/frontend/zagg/zagg/scss/support/contact.scss"
+			],
+			[
+				"contact.css",
+				"public_html/skin/frontend/zagg/zagg/css/support/contact.css"
+			],
+			[
+				"contact.",
+				"public_html/skin/frontend/zagg/zagg/css/support/contact.css"
+			],
+			[
+				"sell",
+				"public_html/skin/frontend/zagg/zagg/scss/sellzagg/sellzagg.scss"
+			],
+			[
+				"zagg/local.xml",
+				"zagg-magento/public_html/app/design/frontend/zagg/zagg/layout/local.xml"
+			],
+			[
+				"contact",
+				"zagg-web/application/controllers/zagg/support/contact.php"
+			],
+			[
+				"own",
+				"zagg-web/application/views/zagg/support/ownersManuals.php"
+			],
+			[
+				"hero",
+				"zagg-web/application/views/shared/home/config-content/zagg-default/hero.php"
+			],
+			[
+				"retail",
+				"zagg-web/includes/retaillocations.php"
+			],
+			[
+				"landing-tem",
+				"zagg-resources/zagg/css/landing-pages/sass/_landing-template.scss"
+			],
+			[
+				"landing-page-tm",
+				"zagg-resources/ifrogz/css/landing-pages/sass/_landing-template.scss"
+			],
+			[
+				"autofi",
+				"zagg-web/application/views/zagg/landing-pages/autofit.php"
+			],
+			[
+				"login.ph",
+				"zagg-guidance/downloader/template/login.phtml"
+			],
+			[
+				"zagg_ho",
+				"zagg-magento/app/code/local/Zagg/CmsSetup/content/pages/zagg_home.html"
+			],
+			[
+				"routing",
+				"zagg-web/application/config/custom/routing/routing_zagg.php"
+			],
+			[
+				"routi",
+				"zagg-web/application/config/custom/routing/routing_ifrogz.php"
+			],
+			[
+				"device-sel",
+				"zagg-resources/shared/js/product/device-select-slider.js"
+			],
+			[
+				"hdx",
+				"zagg-resources/zagg/css/landing-pages/sass/_iShdx.scss"
+			],
+			[
+				"routin",
+				"zagg-web/application/config/custom/routing/routing_zagg.php"
+			],
+			[
+				"autofit",
+				"zagg-web/application/views/zagg/landing-pages/autofit.php"
+			],
+			[
+				"rout",
+				"zagg-web/application/config/custom/routing/routing_zagg.php"
+			],
+			[
+				"template.php",
+				"zagg-web/application/views/zagg/products/template.php"
+			],
+			[
+				"why",
+				"zagg-web/application/controllers/zagg/landing-pages/why_invisibleshield.php"
+			],
+			[
+				"ori",
+				"zagg-web/application/views/zagg/landing-pages/origin.php"
+			],
+			[
+				"landing-template",
+				"zagg-resources/zagg/css/landing-pages/sass/_landing-template.scss"
+			],
+			[
+				"head",
+				"zagg-web/application/packages/theme/views/themes/rwd_zagg/head.php"
+			],
+			[
+				"home.php",
+				"zagg-web/application/controllers/zagg/home.php"
+			],
+			[
+				"gs5",
+				"zagg-web/application/views/zagg/landing-pages/samsung-GS5-accessories.php"
+			],
+			[
+				"head.php",
+				"zagg-web/application/packages/theme/views/themes/rwd_zagg/head.php"
+			],
+			[
+				"tad",
+				"zagg-web/application/views/ifrogz/landing-pages/tadpole.php"
+			],
+			[
+				"aff",
+				"zagg-resources/zagg/css/sellzagg/sass/_affiliate.scss"
+			],
+			[
+				"rou",
+				"zagg-web/application/config/routes.php"
+			],
+			[
+				"sellzagg",
+				"zagg-resources/zagg/css/sellzagg/sellzagg.scss"
+			],
+			[
+				"404",
+				"zagg-resources/zagg/css/404.scss"
+			],
+			[
+				"smooth",
+				"zagg-resources/zagg/css/jquery/ui-themes/smoothness.css"
+			],
+			[
+				"zagg-web/application/viewtemplate.php",
+				"zagg-web/application/views/zagg/products/template.php"
+			],
+			[
+				"zaggkeys-univer",
+				"zagg-web/application/views/zagg/landing-pages/zaggkeys-universal-tablet-keyboard.php"
+			],
+			[
+				"zaggkeys-uni",
+				"zagg-resources/zagg/css/OLD ZAGG/zaggkeys-universal-tablet-keyboard.css"
+			],
+			[
+				"redir",
+				"zagg-web/application/libraries/utility/init/redirects.php"
+			],
+			[
+				"alia",
+				"zagg-web/application/classes/aliases.php"
+			],
+			[
+				"is-template",
+				"zagg-resources/zagg/css/products/is-template.scss"
+			],
+			[
+				"login",
+				"zagg-resources/zagg/css/OLD ZAGG/login.css"
+			],
+			[
+				"templa",
+				"zagg-web/application/views/zagg/products/template.php"
+			],
+			[
+				"shop",
+				"zagg-web/application/views/zagg/landing-pages/shopByDevice.php"
+			],
+			[
+				"product_pag",
+				"zagg-resources/zagg/css/OLD ZAGG/product_pages.css"
+			],
+			[
+				"temp",
+				"zagg-web/application/views/zagg/products/template.php"
+			],
+			[
+				"intro",
+				"zagg-web/application/views/zagg/products/introduction.php"
+			],
+			[
+				"style-gu",
+				"zagg-web/application/views/zagg/common/style-guide.php"
+			],
+			[
+				"mak",
+				"zagg-web/make-it-yours.php"
+			],
+			[
+				"",
+				"zagg-web/application/controllers/shared/product.php"
+			],
+			[
+				"producttemplate",
+				"zagg-web/application/views/products/template.php"
+			],
+			[
+				"tadp",
+				"zagg-web/application/views/landing-pages/tadpole.php"
+			],
+			[
+				"landing",
+				"zagg-resources/shared/css/landing-pages/landing-pages.scss"
+			],
+			[
+				"checkout.",
+				"zagg-resources/shared/css/checkout/checkout.css"
+			],
+			[
+				"checkou",
+				"zagg-web/css/checkout.css"
+			],
+			[
+				"const",
+				"zagg-web/application/config/constants.php"
+			],
+			[
+				"_acti",
+				"zagg-resources/shared/css/checkout/sass/_active-cart.scss"
+			],
+			[
+				"product-t",
+				"zagg-resources/shared/css/product-page/product-template.scss"
+			],
+			[
+				"product-template.",
+				"zagg-resources/shared/css/product-page/product-template.scss"
+			],
+			[
+				"topnav",
+				"zagg-web/application/themepkg/views/themes/rwd_zagg/topnav.php"
+			],
+			[
+				"topn",
+				"zagg-web/includes/topnav.php"
+			],
+			[
+				"showtimedelay",
+				"zagg-web/invisibleshield/includes/classes/showTimeDelayClass.php"
+			],
+			[
+				"silo",
+				"zagg-web/application/config/custom/search/silo.php"
+			],
+			[
+				"error404",
+				"zagg-retail/application/views/error404.twig"
+			],
+			[
+				"checkout.css",
+				"zagg-resources/shared/css/checkout/checkout.css"
+			],
+			[
+				"master.cs",
+				"zagg-resources/shared/css/master.css"
+			],
+			[
+				"origi",
+				"zagg-web/application/views/landing-pages/origin.php"
+			],
+			[
+				"blue",
+				"zagg-resources/zagg/css/bluetooth-speaker-origin.css"
+			],
+			[
+				"warr",
+				"zagg-web/support/account/warranty_replacement.php"
+			],
+			[
+				"is_comparison_chart",
+				"zagg-web/application/views/common/is_comparison_chart.php"
+			],
+			[
+				"includes/he",
+				"zagg-web/includes/head.php"
+			],
+			[
+				"mana",
+				"zlocal/support/account/manage_email_subscription.php"
+			],
+			[
+				"constants.php",
+				"__aboveroot/constants.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
